@@ -1,0 +1,25 @@
+# Database credentials
+*.env
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive data (if any)
+*.log
+*.csv.bak
