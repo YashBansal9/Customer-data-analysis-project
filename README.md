@@ -79,6 +79,8 @@ CREATE DATABASE customer_behavior;
 
 ## 📊 Dashboard Preview
 
+https://github.com/YashBansal9/Customer-data-analysis-project/issues/1#issuecomment-3694110882
+
 _Interactive Power BI dashboard includes:_
 
 - Revenue trends by customer segment
