@@ -29,7 +29,7 @@
 ├── Customer_Shopping_Behavior_Analysis.ipynb   # Data cleaning & EDA
 ├── customer_behavior_sql_queries.sql            # Business analysis queries
 ├── customer_behavior_dashboard.pbix             # Power BI dashboard
-└── customer_shopping_behavior.csv               # Raw dataset
+└── customer_shopping_behavior_dataset.csv               # Raw dataset
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/customer-behavior-analysis.git
+git clone https://github.com/YashBansal9/customer-data-analysis-project.git
 
 # Install dependencies
 pip install pandas sqlalchemy psycopg2-binary
